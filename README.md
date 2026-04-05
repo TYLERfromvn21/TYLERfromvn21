@@ -71,12 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/TYLERfromvn21">
-    <img src="https://github-readme-stats.vercel.app/api?username=TYLERfromvn21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="TYLER's GitHub Stats" />
-  </a>
-  <a href="https://github.com/TYLERfromvn21">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYLERfromvn21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TYLERfromvn21&theme=radical" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TYLERfromvn21&theme=radical" alt="Languages Card" />
 </p>
 
 ## 📫 Get in Touch
