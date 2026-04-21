@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/KiCad-%23315CBC.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/Tinkercad-1D70B8?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion" />
 </p>
 
 ### 💻 Backend & System Architecture
@@ -73,6 +76,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TYLERfromvn21&theme=radical" alt="Stats Card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TYLERfromvn21&theme=radical" alt="Languages Card" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TYLERfromvn21&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📫 Get in Touch
