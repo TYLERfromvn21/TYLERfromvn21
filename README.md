@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **3rd-year Computer Engineering student** at Ho Chi Minh City University of Technology (HCMUT).
+* 🎓 **Final-year Computer Engineering student** at Ho Chi Minh City University of Technology (HCMUT).
 * ⚙️ **Core Focus:** Passionate about low-level **C/C++ development**, non-blocking firmware architectures, and real-time hardware integration (STM32, ESP32, Raspberry Pi).
 * 🌐 **Secondary Strength:** Building robust scalable backend architectures (**Node.js, Express, PostgreSQL**) and bridging the gap between Edge devices and the Cloud via MQTT/RESTful APIs.
 * 🚀 **Currently working on:** A Federated Learning Wearable IoT System and an Autonomous Delivery Drone (UAV) Project.
